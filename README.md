@@ -8,7 +8,20 @@ This was a summer project as part of my summer (summer 2020) internship for Dete
 
 **script.R**
 
-Included in this repository is the script file
+Included in this repository is the script file which when run, using a data set can create a machine learning module.
+
+Below is an example of a plot output: 
+
+![Map2](https://github.com/MariusBoda/visual_triage/assets/35667954/20072755-9597-4c5c-affc-6fcc1be28ec1)
+
+As you can see, inputed data is sorted into one of the two catagories: Admit or Discharge.
+
+Here is a plot of the different features that are used to make the prediction: 
+
+![mulilayer](https://github.com/MariusBoda/visual_triage/assets/35667954/9750ada5-87c8-456c-872e-3ae945c03e1e)
+
+
+
 
 **Features**
 
@@ -27,7 +40,7 @@ Usage
 
 **Sensitivity Rate**
 
-The machine learning module has achieved a sensitivity rate of 91%. This measure indicates the module's ability to correctly identify patients who should be admitted or transferred based on their input data. A higher sensitivity rate signifies a greater accuracy in predicting positive cases.
+The machine learning module has achieved a sensitivity rate of 94%. This measure indicates the module's ability to correctly identify patients who should be admitted or transferred based on their input data. A higher sensitivity rate signifies a greater accuracy in predicting positive cases.
 
 **Contact Information**
 
