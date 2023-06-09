@@ -2,7 +2,7 @@
 
 **Introduction**
 
-This project aims to develop a machine learning module from scratch using R that accurately predicts patients' disposition based on vital signs, medical history, and socioeconomic data. The module has been designed to analyze and predict whether a patient should be admitted or discharged from the emergency room.
+This project aims to develop a machine learning module (using a SOM) from scratch using R that accurately predicts patients' disposition based on vital signs, medical history, and socioeconomic data. The module has been designed to analyze and predict whether a patient should be admitted or discharged from the emergency room.
 
 This was a summer project as part of my summer (summer 2020) internship for Detectivio AB. The end goal of the project is to prove that it is possible to implement a system similar to this for doctors and healthcare professionals. Take the example of an elderly man walking into the emergency room; even with limited information about this man, machine learning can help healthcare workers make faster and more accurate decisions. 
 
@@ -20,6 +20,9 @@ Here is a plot of the different features that are used to make the prediction:
 
 ![mulilayer](https://github.com/MariusBoda/visual_triage/assets/35667954/9750ada5-87c8-456c-872e-3ae945c03e1e)
 
+Here is a basic example of the confusion matrix output along with other statistics: 
+
+![4](https://github.com/MariusBoda/visual_triage/assets/35667954/7cd2b29f-d627-473c-9be9-7f0bcd2bbef8)
 
 
 
