@@ -6,6 +6,10 @@ This project aims to develop a machine learning module from scratch using R that
 
 This was a summer project as part of my summer (summer 2020) internship for Detectivio AB. The end goal of the project is to prove that it is possible to implement a system similar to this for doctors and healthcare professionals. Take the example of an elderly man walking into the emergency room; even with limited information about this man, machine learning can help healthcare workers make faster and more accurate decisions. 
 
+**script.R**
+
+Included in this repository is the script file
+
 **Features**
 
    - Accurate prediction of patients' disposition based on vital signs, medical history, and socioeconomic data.
