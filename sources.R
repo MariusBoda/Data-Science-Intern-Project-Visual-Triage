@@ -1,5 +1,5 @@
 ## SOM Training for disposition
-## Authors: Marius Boda and Peter Boda
+## Authors: Marius Boda
 
 # ------------------------------- SOURCES -------------------------------
 
