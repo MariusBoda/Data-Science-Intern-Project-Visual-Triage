@@ -1,5 +1,5 @@
 ## SOM Training for disposition
-## Authors: Marius Boda and Peter Boda
+## Authors: Marius Boda
 
 ### LOAD LIBRARIES - install with:
 #install.packages(c("kohonen", "dummies", "ggplot2", "maptools", "sp", "reshape2", "rgeos", "rgdal"))
